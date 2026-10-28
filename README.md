@@ -34,3 +34,5 @@ Beim Beenden wird das Internet automatisch wieder freigegeben.
 ## Hinweis
 
 NetControl wurde mit KI-Unterstützung entwickelt.
+
+Der Source Code folgt in kürze.
