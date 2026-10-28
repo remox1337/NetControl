@@ -30,3 +30,7 @@ Das Programm benötigt Administratorrechte (für die Windows-Firewall-Regeln).
 3. Hotkey und Optionen lassen sich im Fenster anpassen; Einstellungen werden im Benutzerprofil gespeichert.
 
 Beim Beenden wird das Internet automatisch wieder freigegeben.
+
+## Hinweis
+
+NetControl wurde mit KI-Unterstützung entwickelt.
