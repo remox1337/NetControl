@@ -1,0 +1,16 @@
+# Gebaute Dateien (liegen als Release-Assets auf GitHub, nicht im Quellcode)
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Laufzeit / lokal / temporaer
+config.json
+.ghreq/
+signing_key.pem
+update_config.py
+# lokale Helfer-Skripte
+*.ps1
